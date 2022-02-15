@@ -57,7 +57,7 @@ public function userDetails(){
 
 
 
-/*******************************************************DATC Institute Code */
+/*******************************************************cta Institute Code */
 
 public function login() {
 	if(isset($this->session->userdata['user_detail'])){
@@ -104,7 +104,7 @@ public function staffLogin() {
 
 /**
  * 
- * DATC student and trainer login
+ * cta student and trainer login
  * 
  * 
  */
@@ -192,7 +192,7 @@ public function studentTrainerLogin(){
 
 /**
  * 
- * DATC staff login
+ * cta staff login
  * 
  * 
  */

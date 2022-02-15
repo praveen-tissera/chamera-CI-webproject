@@ -14,7 +14,7 @@ class User_model extends CI_Model
     /*************************************************************************************** */
     /**
      * 
-     * DATC institute models
+     * cta institute models
      * 
      */
 

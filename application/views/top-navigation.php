@@ -3,7 +3,7 @@
             <div class="top-bar py-3">
                 <div class="row">
                     <div class="col-md-7 hidden-xs hidden-sm">
-                        <span>District Agriculture Training Center</span>
+                        <span>Create Tech Academy</span>
                     </div>
                     <div class="col-md-5 text-right">
                         <div class="top-bar-right">
