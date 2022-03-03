@@ -223,19 +223,19 @@ public function staffMemberLogin(){
 			$result = $this->user_model->read_Staff_information($data['email']);
 			if($result[0]->role_type == 'admin'){
 				$user_menu = ['profile'=>'My Profile',
-											'staff'=>'Staff Managment',
-											'student'=>'Student Managment',
-											'trainer'=>'Trainer Managment',
-											'course'=>'Course Managment',
+											'staff'=>'Staff Management',
+											'student'=>'Student Management',
+											'trainer'=>'Trainer Management',
+											'course'=>'Course Management',
 											'report'=>'Reports',
 											'attendance'=>'Attendance'
 										];
 			}else if($result[0]->role_type == 'coordinator'){
 				$user_menu = ['profile'=>'My Profile',
-											'staff'=>'Staff Managment',
-											'student'=>'Student Managment',
-											'trainer'=>'Trainer Managment',
-											'course'=>'Course Managment',
+											'staff'=>'Staff Management',
+											'student'=>'Student Management',
+											'trainer'=>'Trainer Management',
+											'course'=>'Course Management',
 											'report'=>'Reports',
 											'attendance'=>'Attendance'
 										];
