@@ -6,7 +6,7 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12 banner-content-wrapper">
-          <h1 class="display-4 text-white mt-5 mb-2 text-center">Create Tech Academy</h1>
+          <h1 class="display-4 text-white mt-5 mb-2 text-center">TLA Academy</h1>
           <p class="lead mb-5 text-white-50 text-center">An experienced young team who are eager to build carrier of our young minds on computer programming and cutting-edge technologies. We offer ICT courses from age 10 to undergraduate with affordable price.</p>
         </div>
       </div>
@@ -21,7 +21,7 @@
                 <div class="col-6">
                     <h2 class="display-4 mt-5">Who We Are</h2>
                     <p class="text-left">
-                    Create Tech Academy is a private and a training Institute which is established in year 2018 which implements programs to increase ICT knowledge of our students.
+                    TLA Academy is a private and a training Institute which is established in year 2018 which implements programs to increase ICT knowledge of our students.
                     </p>
                    
                 </div>

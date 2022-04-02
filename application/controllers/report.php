@@ -669,7 +669,7 @@ class Report extends CI_Controller
 
 
 
-		$html = "<table width='100%'><tr><td><h3 style='margin-bottom:0;padding-bottom:0;'>Create Tech Academy</h3><p style='margin-top:0;padding-top:0;'>Phone: +94764354222 | Email: info@cta.lk</p></td><td align='right'>Date Issued<br>";
+		$html = "<table width='100%'><tr><td><h3 style='margin-bottom:0;padding-bottom:0;'>TLA Academy</h3><p style='margin-top:0;padding-top:0;'>Phone: +94764354222 | Email: info@cta.lk</p></td><td align='right'>Date Issued<br>";
 		$html .= date("F j, Y");
 		$html .= "</td></tr></table> <hr>";
 		$html .= "<table border='1' style='width:100%;border:1px black solid;border-collapse: collapse;margin-bottom:50px;'><tr><th style='padding:10px;' colspan='2'>Payment Receipt</th></tr><tr><td style='padding:10px; width:30%;'>Registration Number</td><td style='padding:10px;'>";
@@ -723,7 +723,7 @@ class Report extends CI_Controller
 
 
 
-		$html = "<table width='100%'><tr><td><h3 style='margin-bottom:0;padding-bottom:0;'>Create Tech Academy</h3><p style='margin-top:0;padding-top:0;'>Phone: +94764354222 | Email: info@cta.lk</p></td><td align='right'>Date Issued<br>";
+		$html = "<table width='100%'><tr><td><h3 style='margin-bottom:0;padding-bottom:0;'>TLA Academy</h3><p style='margin-top:0;padding-top:0;'>Phone: +94764354222 | Email: info@cta.lk</p></td><td align='right'>Date Issued<br>";
 		$html .= date("F j, Y");
 		$html .= "</td></tr></table> <hr>";
 		$html .= "<table border='1' style='width:100%;border:1px black solid;border-collapse: collapse;margin-bottom:10px;'><tr><th style='padding:10px;' colspan='2'>Payment Receipt</th></tr><tr><td style='padding:10px; width:30%;'>Registration Number</td><td style='padding:10px;'>";
@@ -863,7 +863,7 @@ class Report extends CI_Controller
 
 
 
-		$html = "<table width='100%'><tr><td><h3 style='margin-bottom:0;padding-bottom:0;'>Create Tech Academy</h3><p style='margin-top:0;padding-top:0;'>Phone: +94764354222 | Email: info@cta.lk</p></td><td align='right'>Date Issued<br>";
+		$html = "<table width='100%'><tr><td><h3 style='margin-bottom:0;padding-bottom:0;'>TLA Academy</h3><p style='margin-top:0;padding-top:0;'>Phone: +94764354222 | Email: info@cta.lk</p></td><td align='right'>Date Issued<br>";
 		$html .= date("F j, Y");
 		$html .= "</td></tr></table> <hr>";
 		$html .= "<table border='1' style='width:100%;border:1px black solid;border-collapse: collapse;margin-bottom:50px;'><tr><th style='padding:10px;' colspan='2'>Payment Receipt</th></tr><tr><td style='padding:10px; width:30%;'>Registration Number</td><td style='padding:10px;'>";
