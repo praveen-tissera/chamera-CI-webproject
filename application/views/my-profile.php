@@ -293,7 +293,7 @@ transition: .3s ease all;
         <input type="password" name="confirmnewpsw" class="form-control" id="confirmnewpsw" >
       </div>
     </div>
-    <button type="reset" class="btn btn-dark m-2">Reset</button>
+    <!-- <button type="reset" class="btn btn-dark m-2">Reset</button> -->
     <button class="btn btn-primary my-3">Update</button>
     <?php echo form_close(); ?>
   </div>

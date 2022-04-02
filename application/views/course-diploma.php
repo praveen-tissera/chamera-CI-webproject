@@ -6,7 +6,7 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12 banner-content-wrapper">
-          <h1 class="display-4 text-white my-5 mb-2 text-center">Diploma Courses</h1>
+          <h1 class="display-4 text-white my-5 mb-2 text-center" style="text-transform: capitalize;"><?php echo $category ?> Courses</h1>
 
         </div>
       </div>

@@ -333,6 +333,7 @@ public function showCourse($category){
 		}
 		
 		$data['course_wise_active_batch'] = $result_course_with_batch;
+		$data['category'] = $category;
 		$this->load->view('course-diploma',$data);
 
 	}else if($category == 'training'){
@@ -350,6 +351,7 @@ public function showCourse($category){
 			}
 			
 			$data['course_wise_active_batch'] = $result_course_with_batch;
+			$data['category'] = $category;
 		}
 		
 		
