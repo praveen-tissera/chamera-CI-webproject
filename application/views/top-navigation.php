@@ -23,7 +23,7 @@
         </div>
         
         <!-- Static navbar -->
-        <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-primary py-0">
+        <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-dark py-0">
             <div class="container">
                
                 <div id="navbarNav" class="collapse navbar-collapse">

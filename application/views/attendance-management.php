@@ -21,7 +21,7 @@ if (!($this->session->userdata('user_detail'))) {
 
 <br>
 
-<div class="container">
+<div class="container py-4">
   <div class="row">
     <?php
 
@@ -46,7 +46,7 @@ if (!($this->session->userdata('user_detail'))) {
           foreach ($studentManagement as $key => $value) {
             echo '<div class="col-4">';  
             echo '<a href="'. base_url('attendance/'.$key) . '">';
-             echo  '<div class="card text-white bg-dark mb-4" style="max-width: 18rem; min-height:8rem;">';
+             echo  '<div class="card text-white bg-success mb-4" style="max-width: 18rem; min-height:8rem;    box-shadow: 0px 0px 8px #013f01;">';
                 echo '<div class="card-body">';
               echo '<h5 class="card-title text-center pt-4">' . $value . '</h5>';
              

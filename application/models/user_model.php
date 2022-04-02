@@ -1267,7 +1267,7 @@ public function read_student_detail_to_batch($student_id,$batch_id){
         $this->db->limit(1);
 
         $query = $this->db->get();
-        // echo $this->db->last_query();
+        echo $this->db->last_query();
         if ($query->num_rows() == 0)
         {
             return(0);

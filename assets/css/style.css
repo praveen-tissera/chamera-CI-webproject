@@ -21,6 +21,7 @@ select,input[text]{
 
 body {
   font-family: "Lato", sans-serif;
+  background: lavenderblush;
 }
 
 
@@ -106,4 +107,5 @@ body {
   background-color: #000;
   color: #fff;
   height: 150px;
+  margin-top: 150px;
 }
