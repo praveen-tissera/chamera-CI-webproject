@@ -13,7 +13,7 @@ if ($this->session->userdata('user_detail')) {
 <div class="sidenav">
    <div class="login-main-text">
       <a href="<?php echo base_url(); ?>"> &lt; Back To Home </a>
-      <h2 class="mt-4">TLA  Institute<br> </h2>
+      <h2 class="mt-4">Create Tech  Institute<br> </h2>
       <p>Login for Students and Trainers.</p>
    </div>
 </div>
