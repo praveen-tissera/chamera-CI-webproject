@@ -85,9 +85,9 @@
                               <p>Lorem ipsum dolor sit consectetur adipiscing morbi venenatis et tortor consectetur adipisicing lacinia tortor morbi ultricies.</p>
                          </div>
                          
-                         <p> 456 Potwial RD, Pannipitiya</p>
+                         <p>240/3 Hokandara Road, Thalawathugoda</p>
                          <p> <a href="mailto:info@company.com">info@cta.com</a></p>
-                         <p> +94 76874 4844</p>
+                         <p> +94(0)112516800</p>
                     </div>
                 </div>
 

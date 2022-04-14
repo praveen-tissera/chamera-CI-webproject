@@ -1,7 +1,7 @@
 <?php $this->load->view('header'); ?>
 <div class="sidenav">
          <div class="login-main-text">
-             <a href="<?php echo base_url(); ?>"> &lt; Back To Home </a>
+             <a href="<?php echo base_url(); ?>" class="text-white"> &lt; Back To Home </a>
             <h2 class="mt-4">Create Tech  Institute<br> </h2>
             <p>Login for Create Tech  Staff Members</p>
          </div>
