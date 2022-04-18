@@ -39,14 +39,14 @@
                     <div class="row no-gutters">
                         <div class="col-md-4">
                         
-                        <img src="<?php echo base_url('assets/img/diploma.jpg'); ?>" class="card-img img-fluid"  alt="">
+                        <img src="<?php echo base_url('assets/img/diploma.jpg'); ?>" style="height: 169px;
+    width: 176px;" class="card-img img-fluid"  alt="">
                         </div>
                         <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">Diploama Coures</h5>
+                            <h2 class="card-title">Diploma Coures</h2>
                             <p class="card-text">
-                            These courses is to produce young agro entrepreneurs, who are capable of practicing appropriate technology and management tasks in crop production.
-                            </p>
+                              </p>
                             <a href="<?php echo base_url('user/showCourse/diploma'); ?>" class="btn btn-info">view all</a>
                         </div>
                         </div>
@@ -62,8 +62,8 @@
                         </div>
                         <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">Training Courses</h5>
-                            <p class="card-text">The training programs are especially created for young farmers in order to develop their knowledge & skills.<br><br></p>
+                            <h2 class="card-title">Training Courses</h2>
+                            <p class="card-text"></p>
                             <a href="<?php echo base_url('user/showCourse/training'); ?>" class="btn btn-info">view all</a>
                         </div>
                         </div>
@@ -82,8 +82,7 @@
                 <div class="wow fadeInUp contact-info" >
                          <div class="section-title">
                               
-                              <p>Lorem ipsum dolor sit consectetur adipiscing morbi venenatis et tortor consectetur adipisicing lacinia tortor morbi ultricies.</p>
-                         </div>
+                                    </div>
                          
                          <p>240/3 Hokandara Road, Thalawathugoda</p>
                          <p> <a href="mailto:info@company.com">info@cta.com</a></p>
